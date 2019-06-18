@@ -5,4 +5,4 @@ please take a look at the wiki: https://github.com/fragxz/miniOCR/wiki
 
 Share ♥ - If this project helped you, please consider supporting me!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URSYXQBZEQD8C)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=URSYXQBZEQD8C&source=url)
